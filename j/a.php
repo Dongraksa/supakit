@@ -8,7 +8,7 @@
 <body>
 <h1>66010914060 ศุภกิตติ์ โสภากุ (เนย)<h1>
 
-<img src="1.jpg" height="150">
+<img src="1.jpg" height="250">
 
 
 
