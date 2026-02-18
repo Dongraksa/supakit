@@ -72,7 +72,7 @@
         </button>
 
         <button class="btn btn-orange" onclick="viewPhoto('1.jpg')">
-            เปิดรูปเพื่อน
+            เปิดรูปอาจายร์
         </button>
     </div>
 
