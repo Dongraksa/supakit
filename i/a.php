@@ -27,7 +27,7 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body>
-<h1>งาน i -- 66010914007 ดวงรักษา อรเพ็ชร (แป้ง)</h1>
+<h1>งาน i -- 66010914007 ศุภกิตติ์ โสภากุ (เนย)</h1>
 
 <form method="post" action="">
     ชื่อภาค <input type="text" name="r_name" class="input-field" required autofocus> 
